@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+netra_ai.db
+screening_images/
+.DS_Store
